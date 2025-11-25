@@ -1,2 +1,2 @@
-# dev
-my journey from beginner to pro 
+# Developer
+My journey from beginner to Developer 
